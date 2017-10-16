@@ -21,11 +21,11 @@
 		vertical-align: baseline;
 	}
 
-	.frame{position:fixed;z-index:100;background:white}
+	/*.frame{position:fixed;z-index:100;background:white}
 	.frame.frame-left{left:0;top:0;height:100%;width:20px}
 	.frame.frame.frame-right{right:0;top:0;height:100%;width:20px}
 	.frame.frame-top{left:0;top:0;width:100%;height:20px}
-	.frame.frame-bottom{left:0;bottom:0;width:100%;height:20px}
+	.frame.frame-bottom{left:0;bottom:0;width:100%;height:20px}*/
 
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
