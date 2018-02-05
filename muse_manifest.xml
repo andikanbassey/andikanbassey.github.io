@@ -1,0 +1,347 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andikanbassey.github.io" resolutions="1x,2x" timestamp="1517822340713">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="budgetier.css" crc="267587878" ref="budgetier"/>
+    <file name="homefinder.css" crc="172699230" ref="homefinder"/>
+    <file name="quotes.css" crc="3868803139" ref="quotes"/>
+    <file name="index.css" crc="465719909" ref="index"/>
+    <file name="home-expanded.css" crc="3972172149" ref="home-expanded"/>
+    <file name="cdc.css" crc="426286622" ref="cdc"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
+    <file name="museutils.js" crc="3803043152" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
+    <file name="whatinput.js" crc="86476730" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
+    <file name="museconfig.js" crc="380897831" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
+    <file name="require.js" crc="4157109226" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
+  </folder>
+  <folder name="images">
+    <file name="u142-4-a.png" crc="3998171091" ref="index"/>
+    <file name="u142-4-a_2x.png" crc="92657566" ref="index"/>
+    <file name="tw.png" crc="376948645" ref="index:homefinder:cdc:quotes:home-expanded:budgetier">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="tw_2x.png" crc="4069324087" ref="index:homefinder:cdc:quotes:home-expanded:budgetier">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="dr.png" crc="252767982" ref="index:homefinder:cdc:quotes:home-expanded:budgetier">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="dr_2x.png" crc="4042064281" ref="index:homefinder:cdc:quotes:home-expanded:budgetier">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="ig.png" crc="64340436" ref="index:homefinder:cdc:quotes:home-expanded:budgetier">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="ig_2x.png" crc="361941684" ref="index:homefinder:cdc:quotes:home-expanded:budgetier">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="u157-4.png" crc="262529365" ref="index"/>
+    <file name="u157-4_2x.png" crc="4080660389" ref="index"/>
+    <file name="u145-4.png" crc="408371624" ref="index"/>
+    <file name="u145-4_2x.png" crc="511297951" ref="index"/>
+    <file name="u246-4.png" crc="300064352" ref="index"/>
+    <file name="u246-4_2x.png" crc="514950085" ref="index"/>
+    <file name="right.png" crc="4166887147" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right_2x.png" crc="218422095" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u148-4.png" crc="3797943744" ref="index"/>
+    <file name="u148-4_2x.png" crc="36158271" ref="index"/>
+    <file name="budgetier.png" crc="3795415063" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="budgetier_2x.png" crc="197200542" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u332-4.png" crc="104803542" ref="index"/>
+    <file name="u332-4_2x.png" crc="86016312" ref="index"/>
+    <file name="quotes.png" crc="3820471161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quotes_2x.png" crc="262245386" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u335-4.png" crc="4000562691" ref="index"/>
+    <file name="u335-4_2x.png" crc="4247511728" ref="index"/>
+    <file name="cdc.png" crc="78321759" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cdc_2x.png" crc="269931634" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u338-4.png" crc="80066923" ref="index"/>
+    <file name="u338-4_2x.png" crc="372449475" ref="index"/>
+    <file name="homefinder.png" crc="245581325" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homefinder_2x.png" crc="3960221652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u339-4.png" crc="52228917" ref="index"/>
+    <file name="u339-4_2x.png" crc="4155641040" ref="index"/>
+    <file name="u360-5.png" crc="4164233150" ref="index"/>
+    <file name="u360-5_2x.png" crc="201314711" ref="index"/>
+    <file name="u2349-4.png" crc="4024979675" ref="index"/>
+    <file name="u2349-4_2x.png" crc="3918841002" ref="index"/>
+    <file name="u1393-4.png" crc="3998171091" ref="homefinder"/>
+    <file name="u1393-4_2x.png" crc="92657566" ref="homefinder"/>
+    <file name="u1401-4.png" crc="4159799836" ref="homefinder"/>
+    <file name="u1401-4_2x.png" crc="453268688" ref="homefinder"/>
+    <file name="u1400-4.png" crc="59288460" ref="homefinder"/>
+    <file name="u1400-4_2x.png" crc="4096174352" ref="homefinder"/>
+    <file name="u1386-4.png" crc="503639247" ref="homefinder"/>
+    <file name="u1386-4_2x.png" crc="439853849" ref="homefinder"/>
+    <file name="u1407-4.png" crc="3889598905" ref="homefinder"/>
+    <file name="u1407-4_2x.png" crc="4253014787" ref="homefinder"/>
+    <file name="1.png" crc="4048738523" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="1_2x.png" crc="76499854" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1390-4.png" crc="3979628660" ref="homefinder"/>
+    <file name="u1390-4_2x.png" crc="3830737217" ref="homefinder"/>
+    <file name="3.png" crc="325021736" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="3_2x.png" crc="3836945563" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1430-4.png" crc="3852603164" ref="homefinder"/>
+    <file name="u1430-4_2x.png" crc="4261021214" ref="homefinder"/>
+    <file name="5.png" crc="4273652913" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="5_2x.png" crc="145309593" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1457-4.png" crc="3862049527" ref="homefinder"/>
+    <file name="u1457-4_2x.png" crc="387901541" ref="homefinder"/>
+    <file name="7.png" crc="516459150" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="7_2x.png" crc="4191555872" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1451-4.png" crc="4167310722" ref="homefinder"/>
+    <file name="u1451-4_2x.png" crc="4190131441" ref="homefinder"/>
+    <file name="2.png" crc="57160402" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="2_2x.png" crc="3810881446" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1421-4.png" crc="225816438" ref="homefinder"/>
+    <file name="u1421-4_2x.png" crc="208903843" ref="homefinder"/>
+    <file name="4.png" crc="4069729104" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="4_2x.png" crc="271161512" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1433-4.png" crc="4116625844" ref="homefinder"/>
+    <file name="u1433-4_2x.png" crc="346596842" ref="homefinder"/>
+    <file name="6.png" crc="69832635" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="6_2x.png" crc="3876447219" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1455-4.png" crc="530983583" ref="homefinder"/>
+    <file name="u1455-4_2x.png" crc="4099213530" ref="homefinder"/>
+    <file name="8.png" crc="530223888" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="8_2x.png" crc="3945323164" ref="homefinder">
+      <caption webpage="homefinder" alt=""/>
+    </file>
+    <file name="u1448-4.png" crc="343697942" ref="homefinder"/>
+    <file name="u1448-4_2x.png" crc="4227935256" ref="homefinder"/>
+    <file name="left l.png" crc="8299474" ref="homefinder:cdc:quotes:home-expanded">
+      <caption webpage="homefinder" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="left l_2x.png" crc="4100665622" ref="homefinder:cdc:quotes:home-expanded">
+      <caption webpage="homefinder" alt=""/>
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="u1774-4.png" crc="207678" ref="homefinder"/>
+    <file name="u1774-4_2x.png" crc="298208390" ref="homefinder"/>
+    <file name="u1387-4.png" crc="248901409" ref="homefinder"/>
+    <file name="u1387-4_2x.png" crc="3853042610" ref="homefinder"/>
+    <file name="u2576-4.png" crc="4024979675" ref="homefinder"/>
+    <file name="u2576-4_2x.png" crc="3918841002" ref="homefinder"/>
+    <file name="u1638-4.png" crc="3998171091" ref="cdc"/>
+    <file name="u1638-4_2x.png" crc="92657566" ref="cdc"/>
+    <file name="u1631-4.png" crc="3906667832" ref="cdc"/>
+    <file name="u1631-4_2x.png" crc="4237989426" ref="cdc"/>
+    <file name="u1632-4.png" crc="416484061" ref="cdc"/>
+    <file name="u1632-4_2x.png" crc="3813535797" ref="cdc"/>
+    <file name="u1623-4.png" crc="466717046" ref="cdc"/>
+    <file name="u1623-4_2x.png" crc="3964972712" ref="cdc"/>
+    <file name="u1619-4.png" crc="428644382" ref="cdc"/>
+    <file name="u1619-4_2x.png" crc="69905769" ref="cdc"/>
+    <file name="cdc 1.png" crc="3939085957" ref="cdc">
+      <caption webpage="cdc" alt=""/>
+    </file>
+    <file name="cdc 1_2x.png" crc="340298007" ref="cdc">
+      <caption webpage="cdc" alt=""/>
+    </file>
+    <file name="cdc 2.png" crc="58266235" ref="cdc">
+      <caption webpage="cdc" alt=""/>
+    </file>
+    <file name="cdc 2_2x.png" crc="533124559" ref="cdc">
+      <caption webpage="cdc" alt=""/>
+    </file>
+    <file name="u1908-4.png" crc="207678" ref="cdc"/>
+    <file name="u1908-4_2x.png" crc="298208390" ref="cdc"/>
+    <file name="u1907-4.png" crc="3760075742" ref="cdc"/>
+    <file name="u1907-4_2x.png" crc="3785723341" ref="cdc"/>
+    <file name="u1767-4.png" crc="308823477" ref="cdc"/>
+    <file name="u1767-4_2x.png" crc="4135431404" ref="cdc"/>
+    <file name="u1753-4.png" crc="278884847" ref="cdc"/>
+    <file name="u1753-4_2x.png" crc="516466539" ref="cdc"/>
+    <file name="right l.png" crc="248859151" ref="cdc:quotes:budgetier">
+      <caption webpage="cdc" alt=""/>
+    </file>
+    <file name="right l_2x.png" crc="510560149" ref="cdc:quotes:budgetier">
+      <caption webpage="cdc" alt=""/>
+    </file>
+    <file name="u2579-4.png" crc="4024979675" ref="cdc"/>
+    <file name="u2579-4_2x.png" crc="3918841002" ref="cdc"/>
+    <file name="u2049-4.png" crc="3998171091" ref="quotes"/>
+    <file name="u2049-4_2x.png" crc="92657566" ref="quotes"/>
+    <file name="u2056-4.png" crc="3789522460" ref="quotes"/>
+    <file name="u2056-4_2x.png" crc="4048108514" ref="quotes"/>
+    <file name="u2055-4.png" crc="4128630451" ref="quotes"/>
+    <file name="u2055-4_2x.png" crc="444006280" ref="quotes"/>
+    <file name="u2052-4.png" crc="4263790109" ref="quotes"/>
+    <file name="u2052-4_2x.png" crc="3866247243" ref="quotes"/>
+    <file name="u2044-4.png" crc="3889598905" ref="quotes"/>
+    <file name="u2044-4_2x.png" crc="4253014787" ref="quotes"/>
+    <file name="intro portfolio version.png" crc="387801822" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 1.png" crc="434973383" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 1_2x.png" crc="352315177" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 2.png" crc="3931841690" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 2_2x.png" crc="268180365" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name=" quotes 3.png" crc="325210152" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name=" quotes 3_2x.png" crc="534860560" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 4.png" crc="3771259560" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 4_2x.png" crc="3903284923" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 5.png" crc="4127138471" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 5_2x.png" crc="460131790" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 6.png" crc="3931808173" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="quotes 6_2x.png" crc="4004733353" ref="quotes">
+      <caption webpage="quotes" alt=""/>
+    </file>
+    <file name="u2058-4.png" crc="207678" ref="quotes"/>
+    <file name="u2058-4_2x.png" crc="298208390" ref="quotes"/>
+    <file name="u2060-4.png" crc="500001385" ref="quotes"/>
+    <file name="u2060-4_2x.png" crc="4294891742" ref="quotes"/>
+    <file name="u2214-4.png" crc="308823477" ref="quotes"/>
+    <file name="u2214-4_2x.png" crc="4135431404" ref="quotes"/>
+    <file name="u2213-4.png" crc="316293167" ref="quotes"/>
+    <file name="u2213-4_2x.png" crc="226361301" ref="quotes"/>
+    <file name="u2582-4.png" crc="4024979675" ref="quotes"/>
+    <file name="u2582-4_2x.png" crc="3918841002" ref="quotes"/>
+    <file name="u2344-4.png" crc="3998171091" ref="home-expanded"/>
+    <file name="u2344-4_2x.png" crc="92657566" ref="home-expanded"/>
+    <file name="lol-3.jpg" crc="495661288" ref="home-expanded">
+      <caption webpage="home-expanded" alt=""/>
+    </file>
+    <file name="u2338-4.png" crc="3934084656" ref="home-expanded"/>
+    <file name="u2338-4_2x.png" crc="461602120" ref="home-expanded"/>
+    <file name="u2337-4.png" crc="3807458227" ref="home-expanded"/>
+    <file name="u2337-4_2x.png" crc="4031128511" ref="home-expanded"/>
+    <file name="u2366-13.png" crc="3931560584" ref="home-expanded"/>
+    <file name="u2366-13_2x.png" crc="4277322710" ref="home-expanded"/>
+    <file name="u2378-4.png" crc="169838150" ref="home-expanded"/>
+    <file name="u2378-4_2x.png" crc="290208125" ref="home-expanded"/>
+    <file name="u2352-4.png" crc="4024979675" ref="home-expanded"/>
+    <file name="u2352-4_2x.png" crc="3918841002" ref="home-expanded"/>
+    <file name="u2480-4.png" crc="3998171091" ref="budgetier"/>
+    <file name="u2480-4_2x.png" crc="92657566" ref="budgetier"/>
+    <file name="u2475-4.png" crc="258562022" ref="budgetier"/>
+    <file name="u2475-4_2x.png" crc="4220417230" ref="budgetier"/>
+    <file name="u2476-4.png" crc="3783928998" ref="budgetier"/>
+    <file name="u2476-4_2x.png" crc="4253225612" ref="budgetier"/>
+    <file name="u2470-4.png" crc="466717046" ref="budgetier"/>
+    <file name="u2470-4_2x.png" crc="3964972712" ref="budgetier"/>
+    <file name="u2473-4.png" crc="3877853438" ref="budgetier"/>
+    <file name="u2473-4_2x.png" crc="3960077742" ref="budgetier"/>
+    <file name="social banner.jpg" crc="4040491529" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="social banner_2x.jpg" crc="53453071" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="typography.jpg" crc="276168443" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="typography_2x.jpg" crc="215189337" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="colours.jpg" crc="85415127" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="colours_2x.jpg" crc="139056606" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="accents.jpg" crc="323329279" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="accents_2x.jpg" crc="4065252249" ref="budgetier">
+      <caption webpage="budgetier" alt=""/>
+    </file>
+    <file name="u2489-4.png" crc="308823477" ref="budgetier"/>
+    <file name="u2489-4_2x.png" crc="4135431404" ref="budgetier"/>
+    <file name="u2491-4.png" crc="4281676528" ref="budgetier"/>
+    <file name="u2491-4_2x.png" crc="4219505926" ref="budgetier"/>
+    <file name="u2585-4.png" crc="4024979675" ref="budgetier"/>
+    <file name="u2585-4_2x.png" crc="3918841002" ref="budgetier"/>
+    <file name="u2591-4.png" crc="3964923225" ref="home-expanded"/>
+    <file name="u2591-4_2x.png" crc="3839954570" ref="home-expanded"/>
+    <file name="u2590-4.png" crc="188126065" ref="home-expanded"/>
+    <file name="u2590-4_2x.png" crc="4082870504" ref="home-expanded"/>
+  </folder>
+  <file name="index.html" crc="4042953377" seo="true" mt="1517822006945" redirect="true"/>
+  <file name="homefinder.html" crc="357059813" seo="true" mt="1517821851157" redirect="true"/>
+  <file name="cdc.html" crc="3996281382" seo="true" mt="1517821870427" redirect="true"/>
+  <file name="quotes.html" crc="3918960684" seo="true" mt="1517821892781" redirect="true"/>
+  <file name="home-expanded.html" crc="3853378597" seo="true" mt="1517822334009" redirect="true"/>
+  <file name="budgetier.html" crc="338432268" seo="true" mt="1517822043493" redirect="true"/>
+</manifest>
