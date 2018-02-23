@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andikanbassey.github.io" resolutions="1x,2x" timestamp="1518623673273">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andikanbassey.github.io" resolutions="1x,2x" timestamp="1519387997083">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="quotes.css" crc="3909614883" ref="quotes"/>
-    <file name="homefinder.css" crc="4166747088" ref="homefinder"/>
-    <file name="budgetier.css" crc="87138538" ref="budgetier"/>
-    <file name="cdc.css" crc="168130664" ref="cdc"/>
-    <file name="index.css" crc="465719909" ref="index"/>
     <file name="home-expanded.css" crc="3972172149" ref="home-expanded"/>
+    <file name="homefinder.css" crc="4166747088" ref="homefinder"/>
+    <file name="quotes.css" crc="3909614883" ref="quotes"/>
+    <file name="index.css" crc="465719909" ref="index"/>
+    <file name="cdc.css" crc="403176841" ref="cdc"/>
+    <file name="budgetier.css" crc="87138538" ref="budgetier"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
@@ -179,8 +179,8 @@
     <file name="u1631-4_2x.png" crc="4237989426" ref="cdc"/>
     <file name="u1632-4.png" crc="416484061" ref="cdc"/>
     <file name="u1632-4_2x.png" crc="3813535797" ref="cdc"/>
-    <file name="u1623-4.png" crc="4171869333" ref="cdc"/>
-    <file name="u1623-4_2x.png" crc="409261628" ref="cdc"/>
+    <file name="u1623-4.png" crc="400430888" ref="cdc"/>
+    <file name="u1623-4_2x.png" crc="3854157562" ref="cdc"/>
     <file name="u1619-4.png" crc="428644382" ref="cdc"/>
     <file name="u1619-4_2x.png" crc="69905769" ref="cdc"/>
     <file name="cdc 1.png" crc="3939085957" ref="cdc">
@@ -293,8 +293,8 @@
     <file name="u2480-4_2x.png" crc="92657566" ref="budgetier"/>
     <file name="u2475-4.png" crc="258562022" ref="budgetier"/>
     <file name="u2475-4_2x.png" crc="4220417230" ref="budgetier"/>
-    <file name="u2476-4.png" crc="3783928998" ref="budgetier"/>
-    <file name="u2476-4_2x.png" crc="4253225612" ref="budgetier"/>
+    <file name="u2476-4.png" crc="4007377560" ref="budgetier"/>
+    <file name="u2476-4_2x.png" crc="244670408" ref="budgetier"/>
     <file name="u2470-4.png" crc="466717046" ref="budgetier"/>
     <file name="u2470-4_2x.png" crc="3964972712" ref="budgetier"/>
     <file name="u2473-4.png" crc="3877853438" ref="budgetier"/>
@@ -332,8 +332,8 @@
   </folder>
   <file name="index.html" crc="4042953377" seo="true" mt="1517822006945" redirect="true"/>
   <file name="homefinder.html" crc="449086386" seo="true" mt="1518623638769" redirect="true"/>
-  <file name="cdc.html" crc="64276783" seo="true" mt="1518622047775" redirect="true"/>
+  <file name="cdc.html" crc="243925142" seo="true" mt="1519387534418" redirect="true"/>
   <file name="quotes.html" crc="4151616058" seo="true" mt="1517828278791" redirect="true"/>
   <file name="home-expanded.html" crc="3853378597" seo="true" mt="1517822334009" redirect="true"/>
-  <file name="budgetier.html" crc="4273401869" seo="true" mt="1517822043493" redirect="true"/>
+  <file name="budgetier.html" crc="4126058558" seo="true" mt="1519387276114" redirect="true"/>
 </manifest>
