@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andikanbassey.github.io" resolutions="1x,2x" timestamp="1519387997083">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andikanbassey.github.io" resolutions="1x,2x" timestamp="1520280131643">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="home-expanded.css" crc="3972172149" ref="home-expanded"/>
     <file name="homefinder.css" crc="4166747088" ref="homefinder"/>
-    <file name="quotes.css" crc="3909614883" ref="quotes"/>
     <file name="index.css" crc="465719909" ref="index"/>
-    <file name="cdc.css" crc="403176841" ref="cdc"/>
+    <file name="quotes.css" crc="3909614883" ref="quotes"/>
     <file name="budgetier.css" crc="87138538" ref="budgetier"/>
+    <file name="cdc.css" crc="403176841" ref="cdc"/>
+    <file name="home-expanded.css" crc="3972172149" ref="home-expanded"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:homefinder:cdc:quotes:home-expanded:budgetier"/>
@@ -330,7 +330,7 @@
     <file name="u2585-4.png" crc="4024979675" ref="budgetier"/>
     <file name="u2585-4_2x.png" crc="3918841002" ref="budgetier"/>
   </folder>
-  <file name="index.html" crc="4042953377" seo="true" mt="1517822006945" redirect="true"/>
+  <file name="index.html" crc="4042953377" seo="true" mt="1520279989292" redirect="true"/>
   <file name="homefinder.html" crc="449086386" seo="true" mt="1518623638769" redirect="true"/>
   <file name="cdc.html" crc="243925142" seo="true" mt="1519387534418" redirect="true"/>
   <file name="quotes.html" crc="4151616058" seo="true" mt="1517828278791" redirect="true"/>
